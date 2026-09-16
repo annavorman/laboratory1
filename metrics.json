@@ -1,0 +1,23 @@
+{
+  "student": "Ворман Анна Павловна",
+  "group": "ИНДОР-221",
+  "variant": 6,
+  "config": {
+    "speed": 0.55,
+    "sensor_range": 1.8,
+    "avoid_threshold": 0.55,
+    "obstacles_count": 4,
+    "seed": 106
+  },
+  "metrics": {
+    "final_state": "GOAL",
+    "time_s": 41.45,
+    "path_length_m": 11.954,
+    "straight_line_m": 12.021,
+    "tortuosity": 0.994,
+    "fsm_transitions": 18,
+    "avoid_share": 0.57,
+    "min_clearance_m": 0.267,
+    "mean_speed_ms": 0.288
+  }
+}
